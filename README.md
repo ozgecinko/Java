@@ -1,8 +1,6 @@
 # Java
 
-### Çalışmalarım
-
-Java çalışırken yazdığım kodları burada paylaşıyorum.
+Java çalışırken yazdığım kodları burada paylaştım.
 
 * [Akıllı Cihaz] - Nesne Yönelimli Analiz ve Tasarım ödevi için yazdığım akıllı cihaz uygulamasıdır.
 * [Dosya Okuma] - Programlama Dillerinin Prensipleri ödevi için yazdığım dosya okuma uygulamasıdır.
